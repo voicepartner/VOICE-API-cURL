@@ -1,0 +1,1 @@
+curl http://api.voicepartner.fr/v1/audios/YOUR_API_KEY
