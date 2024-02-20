@@ -1,0 +1,1 @@
+curl -Method Post -Uri "https://api.voicepartner.fr/v1/audio-file/rename" -Headers @{"Content-Type"="application/json"} -Body '{"apiKey": "YOUR_API_KEY", "tokenAudio": "TOKEN_DU_FICHIER_AUDIO", "filename": "Nom du fichier"}'
