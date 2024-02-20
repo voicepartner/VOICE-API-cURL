@@ -1,0 +1,1 @@
+curl -X DELETE 'https://api.voicepartner.fr/v1/campaign/cancel/YOUR_API_KEY/CAMPAIGN_ID'
